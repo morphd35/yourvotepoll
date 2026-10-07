@@ -20,11 +20,12 @@ Open http://localhost:8000.
 
 ## Behavior
 
-- Democrat escapes six times, then allows a vote.
+- Democrat escapes ten times, then allows a vote.
 - Switch parties reverses which button escapes.
 - Mouse and touch interaction are supported.
 - Keyboard activation and Skip the chase allow direct voting.
 - Play again resets the round.
+- Light and dark themes automatically follow the visitor's system settings.
 
 ## Hosting
 
